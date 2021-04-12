@@ -13,6 +13,8 @@
 - [დენისი სანტურიანი](https://github.com/Denissant) | [5 საათით ადრე](https://github.com/Denissant/UnilabPythonInternship/blob/bootstrap/denis_santuryan/Chapter4_Bootstrap/Projects/denis_santuryan/main.html)
 - [გიორგი წყაროველი |Mars Mission](/Chapter4_Bootstrap/Projects/giorgi_tskaroveli/mars_crew)
 - [სალომე ჯავაშვილი](https://github.com/salomej899) | [საქართველოში გავრცელებულ პათოგენთა მონაცემთა ბაზა](/Chapter4_Bootstrap/Projects/salome_javashvili)
+- [გიორგი წყაროველი |Mars Mission](/Chapter4_Bootstrap/Projects/giorgi_tskaroveli/mars_crew)
+
 
 ## ინსტრუქცია:
 
